@@ -1,1 +1,1 @@
-# -
+使用ai用用python和go做了一个简单的windows定时重启关机工具。
